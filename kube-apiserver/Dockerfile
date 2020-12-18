@@ -1,1 +1,1 @@
-from k8s.gcr.io/kube-apiserver:v1.18.6
+from k8s.gcr.io/kube-apiserver:v1.12.0
