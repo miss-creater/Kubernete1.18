@@ -1,1 +1,1 @@
-from k8s.gcr.io/coredns:1.7.0
+from k8s.gcr.io/ingress-nginx/controller:v1.0.1
